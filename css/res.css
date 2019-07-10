@@ -1,0 +1,21 @@
+h2 { color: #EA2B66; } 
+#slider-holder .slide-info { float: left; display: inline; width: 800px; padding-top: 0px; }
+#slider-holder { height: 620px; }
+#slider-holder .slide-info { margin-left: 40px; height: 600px; }
+#slider-holder .slide-info ul li { height: 600px; }
+#slider-holder .jcarousel-clip { height: 600px; }
+#slider-holder ul {  height: 600px; }
+#slider-holder ul li { height: 600px; }
+h2 { color: #EA2B66; } 
+
+#slider-holder img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+
+body
+{
+	line-height: 1.6em;
+}
+

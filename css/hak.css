@@ -1,0 +1,7 @@
+#slider-holder { height: 600px; }
+#slider-holder .slide-infohak { float: left; display: inline; height: 600px; width: 500px; padding-top: 20px; }
+#slider-holder .slide-infohak ul li { height: 600px; }
+#slider-holder .jcarousel-clip { height: 600px; }
+#slider-holder ul {  height: 600px; }
+#slider-holder ul li { height: 600px; }
+h2 { color: #EA2B66; } 
